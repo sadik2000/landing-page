@@ -1,0 +1,17 @@
+.navbar {
+  background-color: #363636;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+.menulist {
+  list-style: none;
+  display: flex;
+  padding: auto;
+  width: 70%;
+  margin: auto;
+}
+.item {
+  margin: 10px;
+}
