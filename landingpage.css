@@ -1,3 +1,7 @@
+* {
+  margin: 0;
+  padding: 0;
+}
 .navbar {
   background-color: #363636;
 }
@@ -14,4 +18,38 @@ a {
 }
 .item {
   margin: 10px;
+}
+
+.midsection {
+  background-color: #ebeae6;
+  padding: 20px 40px;
+}
+h1 {
+  text-align: center;
+  font-size: 25px;
+  margin-bottom: 20px;
+}
+.midrow {
+  display: flex;
+  padding: 20px;
+}
+.right {
+  margin-left: 40px;
+  text-align: center;
+}
+.pr {
+  text-align: center;
+  padding: 20px;
+  margin-top: 20%;
+}
+p {
+  margin-bottom: 25px;
+  font-weight: bold;
+}
+button {
+  background-color: #f88e37;
+  border-radius: 5px;
+  padding: 10px 20px;
+  color: white;
+  border: none;
 }
